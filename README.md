@@ -1,1 +1,2 @@
-# Jenkins-Java-6
+#  CI/CD project
+## CICD for spring application
